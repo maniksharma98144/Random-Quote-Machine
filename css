@@ -1,0 +1,12 @@
+body{
+  background-color:grey;
+}
+.quotee{
+  background-color:white;
+  border-radius:20%;
+  border-color:black;
+  margin-left:auto;
+  margin-right:auto;
+  padding:5px;
+  width:20%;
+}
