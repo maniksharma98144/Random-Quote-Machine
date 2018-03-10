@@ -1,0 +1,11 @@
+<div class="container-fluid">
+  <div class="text-center">
+  <h1>Random Quote Machine</h1>
+  <p>Any Quote You Want Just Click</p>
+    <button type="submit" id="quotebtn" class-"btn btn-default">Quote</button>
+    <a href="#" class="btn btn-default" id="tweet">Tweet</a></br>
+  </div>
+  <div class="text-center quotee">
+    <span id="quotearea" >bhb</span>
+</div>
+</div>
